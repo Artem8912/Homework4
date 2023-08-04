@@ -1,0 +1,15 @@
+C:\Users\DNS\Desktop\Git works\Homework4\Exercise-36\bin\Debug\net6.0\Exercise-36.exe
+C:\Users\DNS\Desktop\Git works\Homework4\Exercise-36\bin\Debug\net6.0\Exercise-36.deps.json
+C:\Users\DNS\Desktop\Git works\Homework4\Exercise-36\bin\Debug\net6.0\Exercise-36.runtimeconfig.json
+C:\Users\DNS\Desktop\Git works\Homework4\Exercise-36\bin\Debug\net6.0\Exercise-36.dll
+C:\Users\DNS\Desktop\Git works\Homework4\Exercise-36\bin\Debug\net6.0\Exercise-36.pdb
+C:\Users\DNS\Desktop\Git works\Homework4\Exercise-36\obj\Debug\net6.0\Exercise-36.csproj.AssemblyReference.cache
+C:\Users\DNS\Desktop\Git works\Homework4\Exercise-36\obj\Debug\net6.0\Exercise-36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DNS\Desktop\Git works\Homework4\Exercise-36\obj\Debug\net6.0\Exercise-36.AssemblyInfoInputs.cache
+C:\Users\DNS\Desktop\Git works\Homework4\Exercise-36\obj\Debug\net6.0\Exercise-36.AssemblyInfo.cs
+C:\Users\DNS\Desktop\Git works\Homework4\Exercise-36\obj\Debug\net6.0\Exercise-36.csproj.CoreCompileInputs.cache
+C:\Users\DNS\Desktop\Git works\Homework4\Exercise-36\obj\Debug\net6.0\Exercise-36.dll
+C:\Users\DNS\Desktop\Git works\Homework4\Exercise-36\obj\Debug\net6.0\refint\Exercise-36.dll
+C:\Users\DNS\Desktop\Git works\Homework4\Exercise-36\obj\Debug\net6.0\Exercise-36.pdb
+C:\Users\DNS\Desktop\Git works\Homework4\Exercise-36\obj\Debug\net6.0\Exercise-36.genruntimeconfig.cache
+C:\Users\DNS\Desktop\Git works\Homework4\Exercise-36\obj\Debug\net6.0\ref\Exercise-36.dll
